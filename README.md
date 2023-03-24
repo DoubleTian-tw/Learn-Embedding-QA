@@ -8,7 +8,6 @@ download zip或clone專案到自己的桌面
 打開scraped.csv進行修改，文字內容改成你想要的問與答(因為內容是中文所以檔案會是Big5)
 
 ## Step3
-(可做可忽略)
 [建置python虛擬環境](https://github.com/DoubleTian-tw/Python-env.git)
 利用虛擬環境來執行專案，之後不要用了還可以刪掉
 
